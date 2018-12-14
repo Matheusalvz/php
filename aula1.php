@@ -3,7 +3,7 @@
 
 	$sobrenome = "Oliveira";
 
-	$nomeCompleto = $nome . " " . "$sobrenome;
+	$nomeCompleto = $nome1 . " " . $sobrenome;
 
 	echo $nomeCompleto;
 
